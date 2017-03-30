@@ -1,18 +1,15 @@
 <idea-plugin version="2">
-  <id>com.your.company.unique.plugin.id</id>
-  <name>Plugin display name here</name>
+  <id>be.jeroendruwe.auto-exclude</id>
+  <name>Auto Exclude</name>
   <version>1.0</version>
-  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <vendor email="druwe.jeroen@gmail.com" url="https://jeroendruwe.be/">Jeroen Druwé</vendor>
 
-  <description><![CDATA[
-      Enter short description for your plugin here.<br>
-      <em>most HTML tags may be used</em>
-    ]]></description>
+  <description>
+    Plugin that can be used to exclude all dist folders in the project. (multi-module supported).
+  </description>
 
-  <change-notes><![CDATA[
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>
-    ]]>
+  <change-notes>
+
   </change-notes>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
